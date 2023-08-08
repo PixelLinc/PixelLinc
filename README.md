@@ -1,5 +1,3 @@
-# Welcome to PixelLinc Technologies
-
 ![PixelLinc Technologies Logo](PixellincLogo.jpg)
 
 Welcome to the official GitHub repository of PixelLinc Technologies. We are a dynamic software development company based in the vibrant city of Hyderabad, India. With a relentless pursuit of excellence, we specialize in delivering transformative digital experiences through a range of cutting-edge services.
